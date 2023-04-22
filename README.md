@@ -1,3 +1,33 @@
+
+# GuruJi Astro App
+
+## Author
+
+- [@Abhishek Kumar](https://www.github.com/abhikunu007)
+
+
+## Deployment
+
+To see this project live click below
+ Link:- 
+
+
+
+## Demo
+
+
+
+## Support
+
+For support, email abhishekkumaras007@gmail.com
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at abhishekkumaras007@gmail.com
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
