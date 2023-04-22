@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gurujiAstro/static/css/main.a39aa873.css",
+    "main.js": "/gurujiAstro/static/js/main.79f0efec.js",
+    "static/media/back1.jpg": "/gurujiAstro/static/media/back1.3a8568ffcaa59db61079.jpg",
+    "static/media/1.png": "/gurujiAstro/static/media/1.60f5d72140c48879259b.png",
+    "static/media/2.png": "/gurujiAstro/static/media/2.98667521a2e8b1398331.png",
+    "static/media/do1.jpg": "/gurujiAstro/static/media/do1.eaf8beb431712e76c074.jpg",
+    "static/media/slick.svg": "/gurujiAstro/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/gurujiAstro/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/gurujiAstro/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/gurujiAstro/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/gurujiAstro/index.html",
+    "main.a39aa873.css.map": "/gurujiAstro/static/css/main.a39aa873.css.map",
+    "main.79f0efec.js.map": "/gurujiAstro/static/js/main.79f0efec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a39aa873.css",
+    "static/js/main.79f0efec.js"
+  ]
+}
